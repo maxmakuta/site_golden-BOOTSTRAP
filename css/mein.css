@@ -1,0 +1,52 @@
+.navbar-brand {
+padding-left: 3%;
+}
+
+.navbar-nav {
+padding-left: 5%;
+}
+
+.carousel-caption {
+bottom: 45%
+}
+
+.pl5 {
+  padding-left: 5px;
+}
+.pl20 {
+  margin-left: 20px;
+}
+.pr20 {
+  margin-right: 20px;
+}
+.pad10 {
+padding: 10px;
+}
+.pd0 {
+  padding: 0;
+}
+.pd60 {
+  padding: 60px;
+}
+.pb60 {
+  padding-bottom: 60px;
+}
+.pt60 {
+  padding-top: 60px;
+}
+.ml80 {
+  margin-left: 80px;
+}
+.mb60 {
+  margin-bottom: 60px;
+}
+.mb20 {
+   margin-bottom: 20px;
+}
+.rgb {
+  background-color: lightgrey;
+}
+a.linkDecor {
+  text-decoration: none;
+}
+
